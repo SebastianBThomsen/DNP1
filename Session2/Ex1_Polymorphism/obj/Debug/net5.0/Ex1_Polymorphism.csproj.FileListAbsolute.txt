@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex1_Polymorphism\bin\Debug\net5.0\Ex1_Polymorphism.exe
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex1_Polymorphism\bin\Debug\net5.0\Ex1_Polymorphism.deps.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex1_Polymorphism\bin\Debug\net5.0\Ex1_Polymorphism.runtimeconfig.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex1_Polymorphism\bin\Debug\net5.0\Ex1_Polymorphism.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex1_Polymorphism\bin\Debug\net5.0\Ex1_Polymorphism.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex1_Polymorphism\bin\Debug\net5.0\ref\Ex1_Polymorphism.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex1_Polymorphism\bin\Debug\net5.0\Ex1_Polymorphism.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex1_Polymorphism\obj\Debug\net5.0\Ex1_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex1_Polymorphism\obj\Debug\net5.0\Ex1_Polymorphism.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex1_Polymorphism\obj\Debug\net5.0\Ex1_Polymorphism.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex1_Polymorphism\obj\Debug\net5.0\Ex1_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex1_Polymorphism\obj\Debug\net5.0\Ex1_Polymorphism.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex1_Polymorphism\obj\Debug\net5.0\ref\Ex1_Polymorphism.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex1_Polymorphism\obj\Debug\net5.0\Ex1_Polymorphism.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex1_Polymorphism\obj\Debug\net5.0\Ex1_Polymorphism.genruntimeconfig.cache

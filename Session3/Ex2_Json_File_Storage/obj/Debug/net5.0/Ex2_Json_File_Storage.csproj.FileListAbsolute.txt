@@ -1,0 +1,16 @@
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex2_Json_File_Storage\bin\Debug\net5.0\Ex2_Json_File_Storage.exe
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex2_Json_File_Storage\bin\Debug\net5.0\Ex2_Json_File_Storage.deps.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex2_Json_File_Storage\bin\Debug\net5.0\Ex2_Json_File_Storage.runtimeconfig.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex2_Json_File_Storage\bin\Debug\net5.0\Ex2_Json_File_Storage.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex2_Json_File_Storage\bin\Debug\net5.0\Ex2_Json_File_Storage.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex2_Json_File_Storage\bin\Debug\net5.0\ref\Ex2_Json_File_Storage.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex2_Json_File_Storage\bin\Debug\net5.0\Ex2_Json_File_Storage.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex2_Json_File_Storage\obj\Debug\net5.0\Ex2_Json_File_Storage.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex2_Json_File_Storage\obj\Debug\net5.0\Ex2_Json_File_Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex2_Json_File_Storage\obj\Debug\net5.0\Ex2_Json_File_Storage.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex2_Json_File_Storage\obj\Debug\net5.0\Ex2_Json_File_Storage.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex2_Json_File_Storage\obj\Debug\net5.0\Ex2_Json_File_Storage.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex2_Json_File_Storage\obj\Debug\net5.0\Ex2_Json_File_Storage.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex2_Json_File_Storage\obj\Debug\net5.0\ref\Ex2_Json_File_Storage.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex2_Json_File_Storage\obj\Debug\net5.0\Ex2_Json_File_Storage.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex2_Json_File_Storage\obj\Debug\net5.0\Ex2_Json_File_Storage.genruntimeconfig.cache

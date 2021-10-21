@@ -1,0 +1,16 @@
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\JavaTest\HumanTest\bin\Debug\net5.0\HumanTest.exe
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\JavaTest\HumanTest\bin\Debug\net5.0\HumanTest.deps.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\JavaTest\HumanTest\bin\Debug\net5.0\HumanTest.runtimeconfig.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\JavaTest\HumanTest\bin\Debug\net5.0\HumanTest.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\JavaTest\HumanTest\bin\Debug\net5.0\HumanTest.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\JavaTest\HumanTest\bin\Debug\net5.0\ref\HumanTest.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\JavaTest\HumanTest\bin\Debug\net5.0\HumanTest.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\JavaTest\HumanTest\obj\Debug\net5.0\HumanTest.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\JavaTest\HumanTest\obj\Debug\net5.0\HumanTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\JavaTest\HumanTest\obj\Debug\net5.0\HumanTest.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\JavaTest\HumanTest\obj\Debug\net5.0\HumanTest.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\JavaTest\HumanTest\obj\Debug\net5.0\HumanTest.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\JavaTest\HumanTest\obj\Debug\net5.0\HumanTest.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\JavaTest\HumanTest\obj\Debug\net5.0\ref\HumanTest.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\JavaTest\HumanTest\obj\Debug\net5.0\HumanTest.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\JavaTest\HumanTest\obj\Debug\net5.0\HumanTest.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex4_PrintingNumbers\bin\Debug\net5.0\S1_Ex4_PrintingNumbers.exe
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex4_PrintingNumbers\bin\Debug\net5.0\S1_Ex4_PrintingNumbers.deps.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex4_PrintingNumbers\bin\Debug\net5.0\S1_Ex4_PrintingNumbers.runtimeconfig.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex4_PrintingNumbers\bin\Debug\net5.0\S1_Ex4_PrintingNumbers.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex4_PrintingNumbers\bin\Debug\net5.0\S1_Ex4_PrintingNumbers.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex4_PrintingNumbers\bin\Debug\net5.0\ref\S1_Ex4_PrintingNumbers.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex4_PrintingNumbers\bin\Debug\net5.0\S1_Ex4_PrintingNumbers.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex4_PrintingNumbers\obj\Debug\net5.0\S1_Ex4_PrintingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex4_PrintingNumbers\obj\Debug\net5.0\S1_Ex4_PrintingNumbers.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex4_PrintingNumbers\obj\Debug\net5.0\S1_Ex4_PrintingNumbers.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex4_PrintingNumbers\obj\Debug\net5.0\S1_Ex4_PrintingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex4_PrintingNumbers\obj\Debug\net5.0\S1_Ex4_PrintingNumbers.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex4_PrintingNumbers\obj\Debug\net5.0\ref\S1_Ex4_PrintingNumbers.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex4_PrintingNumbers\obj\Debug\net5.0\S1_Ex4_PrintingNumbers.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex4_PrintingNumbers\obj\Debug\net5.0\S1_Ex4_PrintingNumbers.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex4_PrintingNumbers\obj\Debug\net5.0\S1_Ex4_PrintingNumbers.csproj.AssemblyReference.cache

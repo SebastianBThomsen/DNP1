@@ -1,0 +1,16 @@
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex3\obj\Debug\net5.0\S1_Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex3\obj\Debug\net5.0\S1_Ex3.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex3\obj\Debug\net5.0\S1_Ex3.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex3\obj\Debug\net5.0\S1_Ex3.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex3\bin\Debug\net5.0\S1_Ex3.exe
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex3\bin\Debug\net5.0\S1_Ex3.deps.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex3\bin\Debug\net5.0\S1_Ex3.runtimeconfig.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex3\bin\Debug\net5.0\S1_Ex3.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex3\bin\Debug\net5.0\S1_Ex3.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex3\bin\Debug\net5.0\ref\S1_Ex3.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex3\bin\Debug\net5.0\S1_Ex3.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex3\obj\Debug\net5.0\S1_Ex3.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex3\obj\Debug\net5.0\ref\S1_Ex3.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex3\obj\Debug\net5.0\S1_Ex3.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex3\obj\Debug\net5.0\S1_Ex3.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex3\obj\Debug\net5.0\S1_Ex3.csproj.AssemblyReference.cache

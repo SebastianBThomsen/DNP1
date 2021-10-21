@@ -1,0 +1,16 @@
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Client\bin\Debug\net5.0\Ex4_MultiThreaded_Client.exe
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Client\bin\Debug\net5.0\Ex4_MultiThreaded_Client.deps.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Client\bin\Debug\net5.0\Ex4_MultiThreaded_Client.runtimeconfig.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Client\bin\Debug\net5.0\Ex4_MultiThreaded_Client.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Client\bin\Debug\net5.0\Ex4_MultiThreaded_Client.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Client\bin\Debug\net5.0\ref\Ex4_MultiThreaded_Client.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Client\bin\Debug\net5.0\Ex4_MultiThreaded_Client.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Client\obj\Debug\net5.0\Ex4_MultiThreaded_Client.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Client\obj\Debug\net5.0\Ex4_MultiThreaded_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Client\obj\Debug\net5.0\Ex4_MultiThreaded_Client.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Client\obj\Debug\net5.0\Ex4_MultiThreaded_Client.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Client\obj\Debug\net5.0\Ex4_MultiThreaded_Client.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Client\obj\Debug\net5.0\Ex4_MultiThreaded_Client.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Client\obj\Debug\net5.0\ref\Ex4_MultiThreaded_Client.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Client\obj\Debug\net5.0\Ex4_MultiThreaded_Client.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Client\obj\Debug\net5.0\Ex4_MultiThreaded_Client.genruntimeconfig.cache

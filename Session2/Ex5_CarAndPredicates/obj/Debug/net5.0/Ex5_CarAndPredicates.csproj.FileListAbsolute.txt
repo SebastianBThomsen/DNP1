@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex5_CarAndPredicates\bin\Debug\net5.0\Ex5_CarAndPredicates.exe
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex5_CarAndPredicates\bin\Debug\net5.0\Ex5_CarAndPredicates.deps.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex5_CarAndPredicates\bin\Debug\net5.0\Ex5_CarAndPredicates.runtimeconfig.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex5_CarAndPredicates\bin\Debug\net5.0\Ex5_CarAndPredicates.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex5_CarAndPredicates\bin\Debug\net5.0\Ex5_CarAndPredicates.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex5_CarAndPredicates\bin\Debug\net5.0\ref\Ex5_CarAndPredicates.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex5_CarAndPredicates\bin\Debug\net5.0\Ex5_CarAndPredicates.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex5_CarAndPredicates\obj\Debug\net5.0\Ex5_CarAndPredicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex5_CarAndPredicates\obj\Debug\net5.0\Ex5_CarAndPredicates.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex5_CarAndPredicates\obj\Debug\net5.0\Ex5_CarAndPredicates.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex5_CarAndPredicates\obj\Debug\net5.0\Ex5_CarAndPredicates.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex5_CarAndPredicates\obj\Debug\net5.0\Ex5_CarAndPredicates.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex5_CarAndPredicates\obj\Debug\net5.0\ref\Ex5_CarAndPredicates.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex5_CarAndPredicates\obj\Debug\net5.0\Ex5_CarAndPredicates.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex5_CarAndPredicates\obj\Debug\net5.0\Ex5_CarAndPredicates.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex4_DoctorsWaitingRoom\bin\Debug\net5.0\Ex4_DoctorsWaitingRoom.exe
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex4_DoctorsWaitingRoom\bin\Debug\net5.0\Ex4_DoctorsWaitingRoom.deps.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex4_DoctorsWaitingRoom\bin\Debug\net5.0\Ex4_DoctorsWaitingRoom.runtimeconfig.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex4_DoctorsWaitingRoom\bin\Debug\net5.0\Ex4_DoctorsWaitingRoom.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex4_DoctorsWaitingRoom\bin\Debug\net5.0\Ex4_DoctorsWaitingRoom.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex4_DoctorsWaitingRoom\bin\Debug\net5.0\ref\Ex4_DoctorsWaitingRoom.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex4_DoctorsWaitingRoom\bin\Debug\net5.0\Ex4_DoctorsWaitingRoom.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex4_DoctorsWaitingRoom\obj\Debug\net5.0\Ex4_DoctorsWaitingRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex4_DoctorsWaitingRoom\obj\Debug\net5.0\Ex4_DoctorsWaitingRoom.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex4_DoctorsWaitingRoom\obj\Debug\net5.0\Ex4_DoctorsWaitingRoom.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex4_DoctorsWaitingRoom\obj\Debug\net5.0\Ex4_DoctorsWaitingRoom.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex4_DoctorsWaitingRoom\obj\Debug\net5.0\Ex4_DoctorsWaitingRoom.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex4_DoctorsWaitingRoom\obj\Debug\net5.0\ref\Ex4_DoctorsWaitingRoom.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex4_DoctorsWaitingRoom\obj\Debug\net5.0\Ex4_DoctorsWaitingRoom.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session2\Ex4_DoctorsWaitingRoom\obj\Debug\net5.0\Ex4_DoctorsWaitingRoom.genruntimeconfig.cache

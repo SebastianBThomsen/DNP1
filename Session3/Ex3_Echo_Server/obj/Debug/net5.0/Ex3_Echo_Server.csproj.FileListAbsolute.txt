@@ -1,0 +1,16 @@
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex3_Echo_Server\bin\Debug\net5.0\Ex3_Echo_Server.exe
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex3_Echo_Server\bin\Debug\net5.0\Ex3_Echo_Server.deps.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex3_Echo_Server\bin\Debug\net5.0\Ex3_Echo_Server.runtimeconfig.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex3_Echo_Server\bin\Debug\net5.0\Ex3_Echo_Server.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex3_Echo_Server\bin\Debug\net5.0\Ex3_Echo_Server.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex3_Echo_Server\bin\Debug\net5.0\ref\Ex3_Echo_Server.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex3_Echo_Server\bin\Debug\net5.0\Ex3_Echo_Server.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex3_Echo_Server\obj\Debug\net5.0\Ex3_Echo_Server.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex3_Echo_Server\obj\Debug\net5.0\Ex3_Echo_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex3_Echo_Server\obj\Debug\net5.0\Ex3_Echo_Server.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex3_Echo_Server\obj\Debug\net5.0\Ex3_Echo_Server.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex3_Echo_Server\obj\Debug\net5.0\Ex3_Echo_Server.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex3_Echo_Server\obj\Debug\net5.0\Ex3_Echo_Server.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex3_Echo_Server\obj\Debug\net5.0\ref\Ex3_Echo_Server.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex3_Echo_Server\obj\Debug\net5.0\Ex3_Echo_Server.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex3_Echo_Server\obj\Debug\net5.0\Ex3_Echo_Server.genruntimeconfig.cache

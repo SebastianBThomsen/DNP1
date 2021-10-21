@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex6_MoreMathCalculator\bin\Debug\net5.0\S1_Ex6_MoreMathCalculator.exe
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex6_MoreMathCalculator\bin\Debug\net5.0\S1_Ex6_MoreMathCalculator.deps.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex6_MoreMathCalculator\bin\Debug\net5.0\S1_Ex6_MoreMathCalculator.runtimeconfig.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex6_MoreMathCalculator\bin\Debug\net5.0\S1_Ex6_MoreMathCalculator.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex6_MoreMathCalculator\bin\Debug\net5.0\S1_Ex6_MoreMathCalculator.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex6_MoreMathCalculator\bin\Debug\net5.0\ref\S1_Ex6_MoreMathCalculator.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex6_MoreMathCalculator\bin\Debug\net5.0\S1_Ex6_MoreMathCalculator.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex6_MoreMathCalculator\obj\Debug\net5.0\S1_Ex6_MoreMathCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex6_MoreMathCalculator\obj\Debug\net5.0\S1_Ex6_MoreMathCalculator.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex6_MoreMathCalculator\obj\Debug\net5.0\S1_Ex6_MoreMathCalculator.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex6_MoreMathCalculator\obj\Debug\net5.0\S1_Ex6_MoreMathCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex6_MoreMathCalculator\obj\Debug\net5.0\S1_Ex6_MoreMathCalculator.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex6_MoreMathCalculator\obj\Debug\net5.0\ref\S1_Ex6_MoreMathCalculator.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex6_MoreMathCalculator\obj\Debug\net5.0\S1_Ex6_MoreMathCalculator.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex6_MoreMathCalculator\obj\Debug\net5.0\S1_Ex6_MoreMathCalculator.genruntimeconfig.cache

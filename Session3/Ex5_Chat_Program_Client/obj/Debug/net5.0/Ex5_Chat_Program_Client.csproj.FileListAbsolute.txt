@@ -1,0 +1,15 @@
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex5_Chat_Program_Client\bin\Debug\net5.0\Ex5_Chat_Program_Client.exe
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex5_Chat_Program_Client\bin\Debug\net5.0\Ex5_Chat_Program_Client.deps.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex5_Chat_Program_Client\bin\Debug\net5.0\Ex5_Chat_Program_Client.runtimeconfig.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex5_Chat_Program_Client\bin\Debug\net5.0\Ex5_Chat_Program_Client.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex5_Chat_Program_Client\bin\Debug\net5.0\Ex5_Chat_Program_Client.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex5_Chat_Program_Client\bin\Debug\net5.0\ref\Ex5_Chat_Program_Client.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex5_Chat_Program_Client\bin\Debug\net5.0\Ex5_Chat_Program_Client.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex5_Chat_Program_Client\obj\Debug\net5.0\Ex5_Chat_Program_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex5_Chat_Program_Client\obj\Debug\net5.0\Ex5_Chat_Program_Client.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex5_Chat_Program_Client\obj\Debug\net5.0\Ex5_Chat_Program_Client.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex5_Chat_Program_Client\obj\Debug\net5.0\Ex5_Chat_Program_Client.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex5_Chat_Program_Client\obj\Debug\net5.0\Ex5_Chat_Program_Client.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex5_Chat_Program_Client\obj\Debug\net5.0\ref\Ex5_Chat_Program_Client.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex5_Chat_Program_Client\obj\Debug\net5.0\Ex5_Chat_Program_Client.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex5_Chat_Program_Client\obj\Debug\net5.0\Ex5_Chat_Program_Client.genruntimeconfig.cache

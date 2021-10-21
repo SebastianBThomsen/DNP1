@@ -1,0 +1,16 @@
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Server\bin\Debug\net5.0\Ex4_MultiThreaded_Server.exe
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Server\bin\Debug\net5.0\Ex4_MultiThreaded_Server.deps.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Server\bin\Debug\net5.0\Ex4_MultiThreaded_Server.runtimeconfig.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Server\bin\Debug\net5.0\Ex4_MultiThreaded_Server.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Server\bin\Debug\net5.0\Ex4_MultiThreaded_Server.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Server\bin\Debug\net5.0\ref\Ex4_MultiThreaded_Server.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Server\bin\Debug\net5.0\Ex4_MultiThreaded_Server.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Server\obj\Debug\net5.0\Ex4_MultiThreaded_Server.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Server\obj\Debug\net5.0\Ex4_MultiThreaded_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Server\obj\Debug\net5.0\Ex4_MultiThreaded_Server.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Server\obj\Debug\net5.0\Ex4_MultiThreaded_Server.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Server\obj\Debug\net5.0\Ex4_MultiThreaded_Server.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Server\obj\Debug\net5.0\Ex4_MultiThreaded_Server.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Server\obj\Debug\net5.0\ref\Ex4_MultiThreaded_Server.dll
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Server\obj\Debug\net5.0\Ex4_MultiThreaded_Server.pdb
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session3\Ex4_MultiThreaded_Server\obj\Debug\net5.0\Ex4_MultiThreaded_Server.genruntimeconfig.cache
