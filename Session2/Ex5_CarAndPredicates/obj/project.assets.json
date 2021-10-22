@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Bruger\\.nuget\\packages\\": {}
+    "C:\\Users\\N_i_v\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruger\\Desktop\\VIA\\SoftwareEngineer\\3. Semester\\DNP\\DNP1\\Session2\\Ex5_CarAndPredicates\\Ex5_CarAndPredicates.csproj",
+      "projectUniqueName": "C:\\Users\\N_i_v\\RiderProjects\\DNP1\\Session2\\Ex5_CarAndPredicates\\Ex5_CarAndPredicates.csproj",
       "projectName": "Ex5_CarAndPredicates",
-      "projectPath": "C:\\Users\\Bruger\\Desktop\\VIA\\SoftwareEngineer\\3. Semester\\DNP\\DNP1\\Session2\\Ex5_CarAndPredicates\\Ex5_CarAndPredicates.csproj",
-      "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruger\\Desktop\\VIA\\SoftwareEngineer\\3. Semester\\DNP\\DNP1\\Session2\\Ex5_CarAndPredicates\\obj\\",
+      "projectPath": "C:\\Users\\N_i_v\\RiderProjects\\DNP1\\Session2\\Ex5_CarAndPredicates\\Ex5_CarAndPredicates.csproj",
+      "packagesPath": "C:\\Users\\N_i_v\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\N_i_v\\RiderProjects\\DNP1\\Session2\\Ex5_CarAndPredicates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\N_i_v\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\N_i_v\\.dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

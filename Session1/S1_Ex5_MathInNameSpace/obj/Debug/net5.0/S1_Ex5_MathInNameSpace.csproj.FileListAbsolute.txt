@@ -13,3 +13,19 @@ C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex
 C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex5_MathInNameSpace\obj\Debug\net5.0\ref\S1_Ex5_MathInNameSpace.dll
 C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex5_MathInNameSpace\obj\Debug\net5.0\S1_Ex5_MathInNameSpace.pdb
 C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex5_MathInNameSpace\obj\Debug\net5.0\S1_Ex5_MathInNameSpace.genruntimeconfig.cache
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex5_MathInNameSpace\bin\Debug\net5.0\S1_Ex5_MathInNameSpace.exe
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex5_MathInNameSpace\bin\Debug\net5.0\S1_Ex5_MathInNameSpace.deps.json
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex5_MathInNameSpace\bin\Debug\net5.0\S1_Ex5_MathInNameSpace.runtimeconfig.json
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex5_MathInNameSpace\bin\Debug\net5.0\S1_Ex5_MathInNameSpace.runtimeconfig.dev.json
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex5_MathInNameSpace\bin\Debug\net5.0\S1_Ex5_MathInNameSpace.dll
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex5_MathInNameSpace\bin\Debug\net5.0\ref\S1_Ex5_MathInNameSpace.dll
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex5_MathInNameSpace\bin\Debug\net5.0\S1_Ex5_MathInNameSpace.pdb
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex5_MathInNameSpace\obj\Debug\net5.0\S1_Ex5_MathInNameSpace.csproj.AssemblyReference.cache
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex5_MathInNameSpace\obj\Debug\net5.0\S1_Ex5_MathInNameSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex5_MathInNameSpace\obj\Debug\net5.0\S1_Ex5_MathInNameSpace.AssemblyInfoInputs.cache
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex5_MathInNameSpace\obj\Debug\net5.0\S1_Ex5_MathInNameSpace.AssemblyInfo.cs
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex5_MathInNameSpace\obj\Debug\net5.0\S1_Ex5_MathInNameSpace.csproj.CoreCompileInputs.cache
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex5_MathInNameSpace\obj\Debug\net5.0\S1_Ex5_MathInNameSpace.dll
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex5_MathInNameSpace\obj\Debug\net5.0\ref\S1_Ex5_MathInNameSpace.dll
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex5_MathInNameSpace\obj\Debug\net5.0\S1_Ex5_MathInNameSpace.pdb
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex5_MathInNameSpace\obj\Debug\net5.0\S1_Ex5_MathInNameSpace.genruntimeconfig.cache

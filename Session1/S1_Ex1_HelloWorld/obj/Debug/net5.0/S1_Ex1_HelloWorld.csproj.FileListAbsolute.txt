@@ -14,3 +14,19 @@ C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex
 C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex1_HelloWorld\obj\Debug\net5.0\S1_Ex1_HelloWorld.pdb
 C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex1_HelloWorld\obj\Debug\net5.0\S1_Ex1_HelloWorld.genruntimeconfig.cache
 C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex1_HelloWorld\obj\Debug\net5.0\S1_Ex1_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex1_HelloWorld\bin\Debug\net5.0\S1_Ex1_HelloWorld.exe
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex1_HelloWorld\bin\Debug\net5.0\S1_Ex1_HelloWorld.deps.json
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex1_HelloWorld\bin\Debug\net5.0\S1_Ex1_HelloWorld.runtimeconfig.json
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex1_HelloWorld\bin\Debug\net5.0\S1_Ex1_HelloWorld.runtimeconfig.dev.json
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex1_HelloWorld\bin\Debug\net5.0\S1_Ex1_HelloWorld.dll
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex1_HelloWorld\bin\Debug\net5.0\ref\S1_Ex1_HelloWorld.dll
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex1_HelloWorld\bin\Debug\net5.0\S1_Ex1_HelloWorld.pdb
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex1_HelloWorld\obj\Debug\net5.0\S1_Ex1_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex1_HelloWorld\obj\Debug\net5.0\S1_Ex1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex1_HelloWorld\obj\Debug\net5.0\S1_Ex1_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex1_HelloWorld\obj\Debug\net5.0\S1_Ex1_HelloWorld.AssemblyInfo.cs
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex1_HelloWorld\obj\Debug\net5.0\S1_Ex1_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex1_HelloWorld\obj\Debug\net5.0\S1_Ex1_HelloWorld.dll
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex1_HelloWorld\obj\Debug\net5.0\ref\S1_Ex1_HelloWorld.dll
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex1_HelloWorld\obj\Debug\net5.0\S1_Ex1_HelloWorld.pdb
+C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex1_HelloWorld\obj\Debug\net5.0\S1_Ex1_HelloWorld.genruntimeconfig.cache
