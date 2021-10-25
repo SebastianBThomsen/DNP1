@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using TodosWebAPI.Data;
 
 namespace TodosWebAPI
 {
@@ -31,6 +32,7 @@ namespace TodosWebAPI
             {
                 c.SwaggerDoc("v1", new OpenApiInfo {Title = "TodosWebAPI", Version = "v1"});
             });
+            services.AddSingleton<ITodosService, TodoServices>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

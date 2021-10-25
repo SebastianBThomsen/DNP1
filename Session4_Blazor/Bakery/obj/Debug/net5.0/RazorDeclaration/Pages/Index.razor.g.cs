@@ -84,7 +84,14 @@ using Bakery.Shared;
 #nullable disable
 #nullable restore
 #line 2 "C:\Users\N_i_v\RiderProjects\DNP1\Session4_Blazor\Bakery\Pages\Index.razor"
-using Data;
+using Bakery.Data;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 3 "C:\Users\N_i_v\RiderProjects\DNP1\Session4_Blazor\Bakery\Pages\Index.razor"
+using Bakery.Models;
 
 #line default
 #line hidden
@@ -97,6 +104,29 @@ using Data;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 8 "C:\Users\N_i_v\RiderProjects\DNP1\Session4_Blazor\Bakery\Pages\Index.razor"
+       
+
+    public List<Product> Products { get; set; }
+
+    public Product FeaturedProduct { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Products = ProductsService.Products; //WTF sker der her? :(( - Slutning af 8.1 Setting up the page code guide
+        FeaturedProduct = Products.ElementAt(new Random().Next(Products.Count));
+    }
+
+    private void NavigateToComponent(Product p)
+    {
+        NavigationManager.NavigateTo("order/" + p.Id);
+    }
+
+
+#line default
+#line hidden
+#nullable disable
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager NavigationManager { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private IProductService ProductsService { get; set; }
     }

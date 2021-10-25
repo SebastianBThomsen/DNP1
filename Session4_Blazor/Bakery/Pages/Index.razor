@@ -1,11 +1,25 @@
 @page "/"
-@using Data
-@inject IProductService ProductsService
+@using Bakery.Data
+@using Bakery.Models
 
+@inject IProductService ProductsService
 @inject NavigationManager NavigationManager;
 
 @code {
 
+    public List<Product> Products { get; set; }
 
+    public Product FeaturedProduct { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Products = ProductsService.Products; //WTF sker der her? :(( - Slutning af 8.1 Setting up the page code guide
+        FeaturedProduct = Products.ElementAt(new Random().Next(Products.Count));
+    }
+
+    private void NavigateToComponent(Product p)
+    {
+        NavigationManager.NavigateTo("order/" + p.Id);
+    }
 
 }

@@ -123,3 +123,7 @@ p {
 .actions .order-button {
     margin-left: 20px;
 }
+
+.navbar-nav {
+    justify-content: flex-end;
+}
