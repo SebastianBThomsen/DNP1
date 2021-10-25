@@ -58,7 +58,7 @@ namespace TodosWebAPI.Controllers
         /*
         [HttpDelete]
         [Route("{id:int}")]
-        public async Task<ActionResult> DeleteTodo([FromRoute] int id)
+        public async Task<ActionResult> DeleteTodo([FromRoute] int todoId)
         {
             try
             {
@@ -73,8 +73,35 @@ namespace TodosWebAPI.Controllers
         }
         */
         
+        [HttpDelete]
+        public async Task<ActionResult> DeleteTodo([FromQuery] int todoId)
+        {
+            try
+            {
+                service.RemoveTodo(todoId);
+                return Accepted($"YOU deleted it {todoId}");
+            }
+            catch (Exception e)
+            {
+                return StatusCode(500, e.Message);
+            }
+
+        }
+
         [HttpPatch]
-        
+        public async Task<ActionResult<Todo>> PatchTodo([FromBody] Todo todo)
+        {
+            try
+            {
+                service.Update(todo);
+                return StatusCode(200);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                return StatusCode(500, e.Message);
+            }
+        }
         
 
         private void ExecuteFilter(bool? filterByIsCompleted, int? filterById)
