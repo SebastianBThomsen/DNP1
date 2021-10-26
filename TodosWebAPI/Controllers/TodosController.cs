@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Mvc;
 using TodosWebAPI.Data;
 using TodosWebAPI.Models;
@@ -11,7 +10,7 @@ using TodosWebAPI.Models;
 namespace TodosWebAPI.Controllers
 {
     [ApiController]
-    [Microsoft.AspNetCore.Mvc.Route("[controller]")]
+    [Route("[controller]")]
     public class TodosController : ControllerBase
     {
         private ITodosService service;
@@ -39,6 +38,22 @@ namespace TodosWebAPI.Controllers
                 return StatusCode(500, e.Message);
             }
         }
+        
+        [HttpGet]
+        [Route("{todoId:int}")]
+        public async Task<ActionResult<Todo>> GetTodos([FromRoute] int todoId)
+        {
+            //VERY COOL, ME WORKS!
+            try
+            {
+                Todo todo = service.GetTodos().FirstOrDefault(t=>t.TodoId == todoId);
+                return Ok(todo);
+            }
+            catch (Exception e)
+            {
+                return StatusCode(500, e.Message);
+            }
+        }
 
         [HttpPost]
         public async Task<ActionResult<Todo>> AddTodo([FromBody] Todo todo)
@@ -55,10 +70,10 @@ namespace TodosWebAPI.Controllers
             }
         }
 
-        /*
+        
         [HttpDelete]
         [Route("{id:int}")]
-        public async Task<ActionResult> DeleteTodo([FromRoute] int todoId)
+        public async Task<ActionResult> DeleteTodo([FromRoute] int id)
         {
             try
             {
@@ -71,8 +86,8 @@ namespace TodosWebAPI.Controllers
                 return StatusCode(500, e.Message);
             }
         }
-        */
         
+        /*
         [HttpDelete]
         public async Task<ActionResult> DeleteTodo([FromQuery] int todoId)
         {
@@ -85,8 +100,8 @@ namespace TodosWebAPI.Controllers
             {
                 return StatusCode(500, e.Message);
             }
-
         }
+        */
 
         [HttpPatch]
         public async Task<ActionResult<Todo>> PatchTodo([FromBody] Todo todo)

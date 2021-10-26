@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\N_i_v\\RiderProjects\\DNP1\\JavaTest\\HumanTest\\HumanTest.csproj": {}
+    "C:\\Users\\Bruger\\Desktop\\VIA\\SoftwareEngineer\\3. Semester\\DNP\\DNP1\\JavaTest\\HumanTest\\HumanTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\N_i_v\\RiderProjects\\DNP1\\JavaTest\\HumanTest\\HumanTest.csproj": {
+    "C:\\Users\\Bruger\\Desktop\\VIA\\SoftwareEngineer\\3. Semester\\DNP\\DNP1\\JavaTest\\HumanTest\\HumanTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\N_i_v\\RiderProjects\\DNP1\\JavaTest\\HumanTest\\HumanTest.csproj",
+        "projectUniqueName": "C:\\Users\\Bruger\\Desktop\\VIA\\SoftwareEngineer\\3. Semester\\DNP\\DNP1\\JavaTest\\HumanTest\\HumanTest.csproj",
         "projectName": "HumanTest",
-        "projectPath": "C:\\Users\\N_i_v\\RiderProjects\\DNP1\\JavaTest\\HumanTest\\HumanTest.csproj",
-        "packagesPath": "C:\\Users\\N_i_v\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\N_i_v\\RiderProjects\\DNP1\\JavaTest\\HumanTest\\obj\\",
+        "projectPath": "C:\\Users\\Bruger\\Desktop\\VIA\\SoftwareEngineer\\3. Semester\\DNP\\DNP1\\JavaTest\\HumanTest\\HumanTest.csproj",
+        "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bruger\\Desktop\\VIA\\SoftwareEngineer\\3. Semester\\DNP\\DNP1\\JavaTest\\HumanTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\N_i_v\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\N_i_v\\.dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

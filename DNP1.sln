@@ -58,6 +58,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session7_Blazor_WebAPI", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodosWebAPI", "TodosWebAPI\TodosWebAPI.csproj", "{34FA7EF0-7AB4-4B85-87E7-3A371051661D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session8_Blazor_HttpClient", "Session8_Blazor_HttpClient", "{F5B6A002-5B1B-4F34-A362-68692FA8C5A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
