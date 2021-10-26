@@ -62,6 +62,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session8_HttpClient", "Sess
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoWithoutBlazer", "Session8_HttpClient\TodoWithoutBlazer\TodoWithoutBlazer.csproj", "{B0C2FE83-9A14-456A-AF5A-9ABD47CA9FF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoTutorial2_0", "Session8_HttpClient\TodoTutorial2_0\TodoTutorial2_0.csproj", "{563E28E9-60D1-469F-AC0B-E0B716AE9A96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,7 @@ Global
 		{BBB7284E-8316-40F8-AFAD-564F274E6CF7} = {640FC4C3-59A4-4A93-BBB8-9B0478783DAB}
 		{34FA7EF0-7AB4-4B85-87E7-3A371051661D} = {EBCC7261-8A6B-4C48-B815-49BFE1159381}
 		{B0C2FE83-9A14-456A-AF5A-9ABD47CA9FF5} = {4FE7C067-F994-4426-99DA-68E6182D0ED0}
+		{563E28E9-60D1-469F-AC0B-E0B716AE9A96} = {4FE7C067-F994-4426-99DA-68E6182D0ED0}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{0312D3D8-9015-4938-96A6-A0C3871F4606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -185,5 +188,9 @@ Global
 		{B0C2FE83-9A14-456A-AF5A-9ABD47CA9FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0C2FE83-9A14-456A-AF5A-9ABD47CA9FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0C2FE83-9A14-456A-AF5A-9ABD47CA9FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563E28E9-60D1-469F-AC0B-E0B716AE9A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563E28E9-60D1-469F-AC0B-E0B716AE9A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563E28E9-60D1-469F-AC0B-E0B716AE9A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563E28E9-60D1-469F-AC0B-E0B716AE9A96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
