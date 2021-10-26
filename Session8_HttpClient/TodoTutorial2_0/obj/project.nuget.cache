@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "nLJ3bS8ppGG/La3T9dR4uSjzqCky7aiaQZWSxadIV1ZTMqkOaF6G2NymOoO/T+xvqDRWnNqZnRdWDL1/fl9hWA==",
+  "dgSpecHash": "Yvpjb0OHqB0ewsPS1AHZmNjIMlICF73X+KWsbtMggO/y6GPJRPihm4BT13NVKBioCFPtFEmC1J9wxCzdtxENXw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bruger\\Desktop\\VIA\\SoftwareEngineer\\3. Semester\\DNP\\DNP1\\Session8_HttpClient\\TodoTutorial2_0\\TodoTutorial2_0.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
   "logs": []
 }
