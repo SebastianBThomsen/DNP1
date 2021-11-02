@@ -27,30 +27,29 @@ namespace TodoTutorial2_0.Data
         }
 
 
-        public IList<Todo> GetTodos()
+        public async Task<IList<Todo>> GetTodosAsync()
         {
             List<Todo> tmp = new(todos);
             return tmp;
         }
 
-        public async Task<Todo> AddTodoAsync(Todo todo)
+        public async Task AddTodoAsync(Todo todo)
         {
             int max = todos.Max(todo => todo.TodoId);
             todo.TodoId = (++max);
             
             todos.Add(todo);
             WriteTodosToFile();
-            return todo;
         }
 
-        public void RemoveTodo(int todoId)
+        public async Task RemoveTodoAsync(int todoId)
         {
             Todo toRemove = todos.First(t => t.TodoId == todoId);
             todos.Remove(toRemove);
             WriteTodosToFile();
         }
 
-        public void Update(Todo todo)
+        public async Task UpdateAsync(Todo todo)
         {
             Todo toUpdate = todos.First(t => t.TodoId == todo.TodoId);
             toUpdate.IsCompleted = todo.IsCompleted;

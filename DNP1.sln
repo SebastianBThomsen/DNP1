@@ -64,6 +64,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoWithoutBlazer", "Sessio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoTutorial2_0", "Session8_HttpClient\TodoTutorial2_0\TodoTutorial2_0.csproj", "{DC30BF37-888A-4836-B3D5-BD877C8D14C1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session9_Database", "Session9_Database", "{1CC6FE44-6E7E-45E9-A762-D2A8FD9375F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Session9_Database\Library\Library.csproj", "{9187CE5B-0303-4D8A-9E45-E5A9B0F0523D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -94,6 +98,7 @@ Global
 		{34FA7EF0-7AB4-4B85-87E7-3A371051661D} = {EBCC7261-8A6B-4C48-B815-49BFE1159381}
 		{B0C2FE83-9A14-456A-AF5A-9ABD47CA9FF5} = {4FE7C067-F994-4426-99DA-68E6182D0ED0}
 		{DC30BF37-888A-4836-B3D5-BD877C8D14C1} = {4FE7C067-F994-4426-99DA-68E6182D0ED0}
+		{9187CE5B-0303-4D8A-9E45-E5A9B0F0523D} = {1CC6FE44-6E7E-45E9-A762-D2A8FD9375F8}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{0312D3D8-9015-4938-96A6-A0C3871F4606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -192,5 +197,9 @@ Global
 		{DC30BF37-888A-4836-B3D5-BD877C8D14C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC30BF37-888A-4836-B3D5-BD877C8D14C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC30BF37-888A-4836-B3D5-BD877C8D14C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9187CE5B-0303-4D8A-9E45-E5A9B0F0523D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9187CE5B-0303-4D8A-9E45-E5A9B0F0523D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9187CE5B-0303-4D8A-9E45-E5A9B0F0523D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9187CE5B-0303-4D8A-9E45-E5A9B0F0523D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

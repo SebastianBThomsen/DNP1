@@ -6,10 +6,10 @@ namespace TodoTutorial2_0.Data
 {
     public interface ITodosService
     {
-        IList<Todo> GetTodos();
-        Task<Todo> AddTodoAsync(Todo todo);
-        void RemoveTodo(int todoId);
-        void Update(Todo todo);
+        Task<IList<Todo>> GetTodosAsync();
+        Task AddTodoAsync(Todo todo);
+        Task RemoveTodoAsync(int todoId);
+        Task UpdateAsync(Todo todo);
         Todo Get(int id);
     }
 }
