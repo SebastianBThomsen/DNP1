@@ -29,3 +29,4 @@ C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex5_MathInNameSpace\obj\Debug\net5
 C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex5_MathInNameSpace\obj\Debug\net5.0\ref\S1_Ex5_MathInNameSpace.dll
 C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex5_MathInNameSpace\obj\Debug\net5.0\S1_Ex5_MathInNameSpace.pdb
 C:\Users\N_i_v\RiderProjects\DNP1\Session1\S1_Ex5_MathInNameSpace\obj\Debug\net5.0\S1_Ex5_MathInNameSpace.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex5_MathInNameSpace\obj\Debug\net5.0\S1_Ex5_MathInNameSpace.csproj.AssemblyReference.cache

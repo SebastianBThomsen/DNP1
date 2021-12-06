@@ -13,3 +13,4 @@ C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex
 C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex6_MoreMathCalculator\obj\Debug\net5.0\ref\S1_Ex6_MoreMathCalculator.dll
 C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex6_MoreMathCalculator\obj\Debug\net5.0\S1_Ex6_MoreMathCalculator.pdb
 C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex6_MoreMathCalculator\obj\Debug\net5.0\S1_Ex6_MoreMathCalculator.genruntimeconfig.cache
+C:\Users\Bruger\Desktop\VIA\SoftwareEngineer\3. Semester\DNP\DNP1\Session1\S1_Ex6_MoreMathCalculator\obj\Debug\net5.0\S1_Ex6_MoreMathCalculator.csproj.AssemblyReference.cache
